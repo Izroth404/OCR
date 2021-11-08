@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971814842170",
+    "project_id": "ocr-javaproject",
+    "storage_bucket": "ocr-javaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971814842170:android:e1759a58459afe489baa03",
+        "android_client_info": {
+          "package_name": "project.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971814842170-glhl09lijeusbf914gudrhejeftnnirv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASoMiDmYIdzOuv9d01Iwm1IiNFIWA8YME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971814842170-glhl09lijeusbf914gudrhejeftnnirv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
